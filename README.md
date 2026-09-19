@@ -1,5 +1,5 @@
 <div align="center"><h1>ArtX-Dev</h1></div>
-<img src="profile.jpg" alt="rick and mory" align="right" width="250px" min-width="250px" max-width="250px">
+<img src="profile.jpg" alt="rick and mory" align="right" width="50px" min-width="250px" max-width="250px">
 <p align="center"><strong>FRONT-END</strong></p>
 <br>
 <p><strong>🚀 Sobre mim:</strong></p>
