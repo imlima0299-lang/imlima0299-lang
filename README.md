@@ -17,7 +17,7 @@
 <div align="center">
   <h1>statisticas</h1>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imlima0299-lang&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
-   <img src="https://raw.githubusercontent.com/imlima0299-lang/imlima0299-lang/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&color=#FFD700&line=#FFD700&title_color=#FFD700&point=FFD700&area_color=#FFD700" height="300" alt="activity-graph graph"/>
+    <img src="https://raw.githubusercontent.com/imlima0299-lang/imlima0299-lang/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <hr>
 <div>
