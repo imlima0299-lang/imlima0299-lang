@@ -8,9 +8,9 @@
 <hr>
 <div>
   <p align="left"><strong>ArtX-Dev</strong></p>
-  <p>👋 Olá! <strong>Eu sou o Arthur França</strong> Sou um entusiasta da tecnologia e estou a dar os meus primeiros<br>passos no mundo do Desenvolvimento Web Front-End.</p>
+  <p>👋 Hello! <strong>I'm Arthur França.</strong> I'm a technology enthusiast taking my first steps into the world of front-end web development</p>
   <br>
- <P>Estou focado em construir uma base sólida nas tecnologias essenciais da web, transformando<br> ideias em projetos visuais reais e aperfeiçoando as minhas competências a cada linha de código.</P>
+ <P>I am focused on building a solid foundation in core web technologies, transforming<br> ideas into real visual projects, and honing my skills with every line of code.</P>
   
 </div>
 <hr>
