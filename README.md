@@ -13,12 +13,15 @@
  <P>Estou focado em construir uma base sólida nas tecnologias essenciais da web, transformando<br> ideias em projetos visuais reais e aperfeiçoando as minhas competências a cada linha de código.</P>
   
 </div>
-
+<hr>
 <div align="center">
+  <h1>statisticas</h1>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imlima0299-lang&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
-
+<hr>
 <div>
   <h1>tecnologias</h1>
-  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html 5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 </div>
+<hr>
